@@ -42,10 +42,10 @@ export default function MyProject() {
     setPro({ ...pro, name: value });
   }
   function handleChangephoneNumberInput(value) {
-    setPro({ ...pro, name: value });
+    setPro({ ...pro, phoneNumber: value });
   }
   function handleChangeAgeInput(value) {
-    setPro({ ...pro, name: value });
+    setPro({ ...pro, age: value });
   }
 
   return (

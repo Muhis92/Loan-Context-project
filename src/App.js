@@ -1,7 +1,4 @@
 import "./App.css";
-import Modal from "./Modal";
-import MyProComponent from "./MyProComponent";
-
 import MyProject from "./MyProject";
 
 function App() {
