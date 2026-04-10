@@ -27,7 +27,7 @@ export default function MyProject() {
     setmodal(true);
   }
   let subBtn = pro.name === "" || pro.phoneNumber === "" || pro.age === "";
-  let submitBtn = "";
+  let submitBtn = "test";
   if (subBtn) {
     submitBtn = "disabled";
   } else {
