@@ -4,7 +4,7 @@ export default function MyProComponent() {
     <>
       <h1 style={{ fontSize: "20px" }}>THis is Header</h1>
       <MyInputPro />
-      <h1 style={{ fontSize: "20px" }}>THis is foter</h1>
+      <h1 style={{ fontSize: "20px" }}>THis is Foter</h1>
     </>
   );
 }
